@@ -813,3 +813,4 @@ QuantumPricesqp
 qpQuantumPrices
 qpQuantumPricesqp
 mingwai321
+FaustukasPro
