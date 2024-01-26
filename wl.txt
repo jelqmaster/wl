@@ -812,3 +812,4 @@ IQuantumIPricesI
 QuantumPricesqp
 qpQuantumPrices
 qpQuantumPricesqp
+mingwai321
