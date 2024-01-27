@@ -838,3 +838,5 @@ normalgrind3
 gamingchair24
 xxlegendsfan,
 S\igningTeam
+xxlegendsfan
+SigningTeam
